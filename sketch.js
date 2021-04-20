@@ -2,7 +2,7 @@ var PLAY=1;
 var END=0;
 var gameStates=1;
 
-
+//added a comment
 var path,boy,cash,diamonds,jwellery,sword;
 var pathImg,boyImg,cashImg,diamondsImg,jwelleryImg,swordImg;
 var treasureCollection = 0;
